@@ -1,0 +1,9 @@
+a.       Sección: 1900
+
+b.       Nombre completo: Gerson Josue Vásquez Meza
+
+c.       Numero de cuenta: 20191006632
+
+d.       Numero de grupo:6
+
+Enlace Repositorio Git: https://github.com/gersonvm/AvanceFinalSegundoParcial 
